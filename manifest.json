@@ -15,6 +15,6 @@
             "38": "images/logo.png"
         },
         "default_title": "链接转二维码",
-        "default_popup": "popup.html"
+        "default_popup": "QRCode.html"
     }
 }
